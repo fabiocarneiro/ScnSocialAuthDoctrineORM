@@ -1,5 +1,5 @@
 {
-    "name": "socalnick/scn-social-auth-doctrine-orm",
+    "name": "fabiocarneiro/scn-social-auth-doctrine-orm",
     "description": "An extension of ScnSocialAuth that provides integration with Doctrine2 ORM.",
     "type": "library",
     "keywords": ["zf2", "doctrine2", "orm", "zfc", "oauth", "socialauth", "hybridauth"],
